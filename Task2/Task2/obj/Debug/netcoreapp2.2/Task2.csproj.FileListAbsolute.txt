@@ -1,0 +1,11 @@
+C:\Users\allto\source\repos\Task2\Task2\bin\Debug\netcoreapp2.2\Task2.deps.json
+C:\Users\allto\source\repos\Task2\Task2\bin\Debug\netcoreapp2.2\Task2.runtimeconfig.json
+C:\Users\allto\source\repos\Task2\Task2\bin\Debug\netcoreapp2.2\Task2.runtimeconfig.dev.json
+C:\Users\allto\source\repos\Task2\Task2\bin\Debug\netcoreapp2.2\Task2.dll
+C:\Users\allto\source\repos\Task2\Task2\bin\Debug\netcoreapp2.2\Task2.pdb
+C:\Users\allto\source\repos\Task2\Task2\obj\Debug\netcoreapp2.2\Task2.csprojAssemblyReference.cache
+C:\Users\allto\source\repos\Task2\Task2\obj\Debug\netcoreapp2.2\Task2.csproj.CoreCompileInputs.cache
+C:\Users\allto\source\repos\Task2\Task2\obj\Debug\netcoreapp2.2\Task2.AssemblyInfoInputs.cache
+C:\Users\allto\source\repos\Task2\Task2\obj\Debug\netcoreapp2.2\Task2.AssemblyInfo.cs
+C:\Users\allto\source\repos\Task2\Task2\obj\Debug\netcoreapp2.2\Task2.dll
+C:\Users\allto\source\repos\Task2\Task2\obj\Debug\netcoreapp2.2\Task2.pdb
